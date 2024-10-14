@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\TCP.client\TCP.client\obj\Debug\net8.0\TCP.client.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TCP.client\TCP.client\obj\Debug\net8.0\TCP.client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TCP.client\TCP.client\obj\Debug\net8.0\TCP.client.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TCP.client\TCP.client\obj\Debug\net8.0\TCP.client.AssemblyInfo.cs
+C:\Users\User\source\repos\TCP.client\TCP.client\obj\Debug\net8.0\TCP.client.csproj.CoreCompileInputs.cache
